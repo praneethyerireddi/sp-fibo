@@ -1,0 +1,42 @@
+
+.heading-container {
+    background-color: #d4d7db;
+    height:70px;
+    width:auto;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 10px
+}
+
+.text-content {
+    height:500px;
+}
+
+.bullet-container {
+    font-size:20px;
+}
+
+.cover-photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  margin-top:5px;
+  border-radius: 4px;
+    
+}
+
+li {
+    margin-bottom:15px;
+}
+
+body {
+    font-family: calibri;
+}
+
+.sub-heading-container {
+    margin-top:5px;
+    font-size:15px;
+    font-style: italic;
+}
